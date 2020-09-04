@@ -6,9 +6,9 @@ My name is Sebastian, I was born in Lima, Peru, I enjoy videogames, and addition
 
 # Assignments
 
-[8/25 Bloomenstock Response](/DATA-150/8-25 Bloomenstock Response)
+[8/25 Bloomenstock Response](8-25_Bloomenstock_Response.md)
 
-[8/27 Rosling Response](/DATA-150/8-27 Rosling Response)
+[8/27 Rosling Response](8-27_Rosling_Response.md)
 
 # Class Participation
 
