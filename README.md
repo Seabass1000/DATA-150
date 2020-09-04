@@ -12,4 +12,4 @@ My name is Sebastian, I was born in Lima, Peru, I enjoy videogames, and addition
 
 # Class Participation
 
-[9/3 Rosling Response](9-3_Rosling_and_Sen)
+[9/3 Rosling Response](9-3_Rosling_and_Sen.md)
