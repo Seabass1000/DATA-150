@@ -10,6 +10,8 @@ My name is Sebastian, I was born in Lima, Peru, I enjoy videogames, and addition
 
 [8/27 Rosling Response](8-27_Rosling_Response.md)
 
+[9/17 Human Development and Data Science Insight](9-17_HD_and_DS_Insight.md)
+
 # Class Participation
 
 [9/3 Rosling and Sen](9-3_Rosling_and_Sen.md)
