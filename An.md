@@ -1,4 +1,4 @@
-**Annotated Bibliography—Evolving Solutions**
+# Annotated Bibliography—Evolving Solutions
 
 Word Count: 2108
 
