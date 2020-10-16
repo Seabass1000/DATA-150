@@ -12,7 +12,7 @@ My name is Sebastian, I was born in Lima, Peru, I enjoy videogames, and addition
 
 [9/17 Human Development and Data Science Insight 1](9-17_HD_and_DS_Insight.md)
 
-[10/15 Human Development and Data Science Insight 1](data_insight_2.md)
+[10/15 Human Development and Data Science Insight 2](data_insight_2.md)
 
 # Class Participation
 
