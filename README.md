@@ -18,5 +18,9 @@ My name is Sebastian, I was born in Lima, Peru, I enjoy videogames, and addition
 
 [9/3 Rosling and Sen](9-3_Rosling_and_Sen.md)
 
+[10/15 Barder](Barder.md)
+
 # Research Project
 [9/21 Annotated Bibliography](An.md)
+
+
