@@ -1,4 +1,4 @@
-# The use of Machine Learning to Track and Address Treatment Gaps and Underrepresentation for Individuals with Mental Illness in Latin American Developing Countries**
+# The use of Machine Learning to Track and Address Treatment Gaps and Underrepresentation for Individuals with Mental Illness in Latin American Developing Countries
 
 Word Count: 2090
 
