@@ -6,21 +6,21 @@ My name is Sebastian, I was born in Lima, Peru, I enjoy videogames, and addition
 
 # Assignments
 
-[8/25 Bloomenstock Response](8-25_Bloomenstock_Response.md)
+[Bloomenstock Response](8-25_Bloomenstock_Response.md)
 
-[8/27 Rosling Response](8-27_Rosling_Response.md)
+[Rosling Response](8-27_Rosling_Response.md)
 
-[9/17 Human Development and Data Science Insight 1](9-17_HD_and_DS_Insight.md)
+[Human Development and Data Science Insight 1](9-17_HD_and_DS_Insight.md)
 
-[10/15 Human Development and Data Science Insight 2](data_insight_2.md)
+[Human Development and Data Science Insight 2](data_insight_2.md)
 
 # Class Participation
 
-[9/3 Rosling and Sen](9-3_Rosling_and_Sen.md)
+[Rosling and Sen](9-3_Rosling_and_Sen.md)
 
-[10/15 Barder](10-15_Barder.md)
+[Barder](10-15_Barder.md)
 
 # Research Project
-[9/21 Annotated Bibliography](An.md)
+[Annotated Bibliography](An.md)
 
 
