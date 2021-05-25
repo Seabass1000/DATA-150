@@ -35,6 +35,8 @@ levels of alcoholism, crime rates, or prevalence gender-based violence to determ
 geographic data from World pop to model the amount of people who suffer from mental illness. This method was able to demonstrate that healthcare inequities are present in three
 Asian cities and disproportionately impact impoverished people (Elsey et Al.).
 
+![alt text](https://raw.githubusercontent.com/Seabass1000/DATA-150/master/method%201.png)
+
 In the same vein that the BLJ study, researchers can train a machine learning model, such as a neural network, with predictors from the most recently administered household
 surveys Latin American to model the number of individuals with mental illness. The use of variables from survey data as predictors is reliable way to collect data on mental
 illness because government surveys often fail to ask about mental illness at all.  Additionally, researchers can then use open-access geo-spatial data to model the number of
@@ -43,6 +45,9 @@ sizes, etc. The use of open-access geo-spatial to estimate population size is ea
 imagery as opposed to official government censuses which are more expensive, take longer, and tend to exclude marginalized people such as the homeless and ethnic minorities.
 These applications demonstrate how machine learning can address the gap in data on mental health in Latin America by revealing disparities, substantially increasing the
 representation of people with disabilities in Latin America.
+
+![alt text](https://raw.githubusercontent.com/Seabass1000/DATA-150/master/method%202.png)
+![alt text](https://raw.githubusercontent.com/Seabass1000/DATA-150/master/method%203.png)
 
 **Method 2:  Internet Based Cell Phone Applications**
 
