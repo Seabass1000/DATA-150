@@ -25,4 +25,6 @@ My name is Sebastian, I was born in Lima, Peru, I enjoy videogames, and addition
 
 [LIterature Review](lit.md)
 
+[Methods](methods.md)
+
 
