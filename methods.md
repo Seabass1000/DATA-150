@@ -67,6 +67,8 @@ disproportionately affected by mental illness.  Additionally, a cell phone app c
 users. Users would provide medical or humanitarian organizations with invaluable information by inputting data about themselves and their conditions on the apps. This data could
 teach researchers more about the variables that make people more susceptible to mental illness and about the distributions of mental illnesses.
 
+![alt text](https://raw.githubusercontent.com/Seabass1000/DATA-150/master/method%204.png)
+
 **Addressing a Gap in Literature**
 
 Little to know data collection, impoverished and corrupt governments, and a strong cultural stigma against mental illness has resulted in there being very little knowledge about
