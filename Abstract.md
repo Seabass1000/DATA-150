@@ -1,4 +1,4 @@
-# Abstract: Applying Machine Learning to Address the Administrative Negligence of Individuals with Mental Illness in Developing Latin America
+# Abstract: Applying Machine Learning to Address Mental Health Inequities in Developing Latin American Countries
 
 **Sebastian Ruiz**
 
